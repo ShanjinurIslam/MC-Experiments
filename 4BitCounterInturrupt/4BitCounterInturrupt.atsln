@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "4BitCounterInturrupt", "4BitCounterInturrupt\4BitCounterInturrupt.cproj", "{42FC86F0-E82A-4BF2-A28D-B29F49464206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42FC86F0-E82A-4BF2-A28D-B29F49464206}.Debug|AVR.ActiveCfg = Debug|AVR
+		{42FC86F0-E82A-4BF2-A28D-B29F49464206}.Debug|AVR.Build.0 = Debug|AVR
+		{42FC86F0-E82A-4BF2-A28D-B29F49464206}.Release|AVR.ActiveCfg = Release|AVR
+		{42FC86F0-E82A-4BF2-A28D-B29F49464206}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
